@@ -1,0 +1,6 @@
+uvicorn
+python-dotenv
+google-generativeai
+pyPDF2
+python-multipart
+streamlit
