@@ -28,7 +28,23 @@ This project helps you **save time** by organizing and sorting important documen
 - **Google Gemini API** – NLP & AI-powered classification  
 - **IMAP (Gmail API)** – Fetching unread emails  
 - **PyPDF2** – Extracting text from PDF  
-- **shutil / os** – File handling and organization  
+- **shutil / os** – File handling and organization
+
+## 📂 Project Structure
+
+📦 pdf-nlp-gemini
+┣ 📂 attachments # Temporary storage for downloaded PDFs
+┣ 📂 folders
+┃ ┣ 📂 Education
+┃ ┣ 📂 Finance
+┃ ┣ 📂 Health
+┃ ┣ 📂 Technology
+┃ ┗ 📂 Other
+┣ 📜 app.py # FastAPI app with endpoints
+┣ 📜 gmail_pdf_reader.py# Gmail integration & PDF extraction
+┣ 📜 main.py # Project entry point
+┣ 📜 requirements.txt # Python dependencies
+┗ 📜 README.md # Project documentation 
 
 
 
@@ -36,7 +52,11 @@ This project helps you **save time** by organizing and sorting important documen
 
 Santhosh Kumar
 🚀 Passionate about AI, NLP, and automation.
-📧 Reach me at: [your email/github link]
+📧 Reach me at: [Email:santhoshkumart2580@gmail.com/github link:## 🔗 Project Repository
+
+You can explore the full project here:  
+👉 [GitHub Repository](https://github.com/Santhoshkumar5050/pdf-nlp-gemini)
+]
 ---
 
-## 📂 Project Structure
+
