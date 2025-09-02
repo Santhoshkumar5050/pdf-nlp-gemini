@@ -237,4 +237,4 @@ with tabs[1]:
                                         move_file_to_domain_folder(file_path, result)
 
                     st.subheader(f"Result: {task}")
-                    
+                    st.write(result)
